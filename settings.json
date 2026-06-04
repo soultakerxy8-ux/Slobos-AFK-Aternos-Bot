@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": Emberlight-4M0r.aternos.me
+    "port": 54679
     "version": "",
     "try-creative": false
   },
